@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\APIProjects\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
+      "projectUniqueName": "C:\\Users\\amit\\Projects\\API-1\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
       "projectName": "AuthorizationAPI",
-      "projectPath": "D:\\Projects\\APIProjects\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
+      "projectPath": "C:\\Users\\amit\\Projects\\API-1\\AuthorizationAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
       "packagesPath": "C:\\Users\\amit\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\APIProjects\\AuthorizationAPI\\AuthorizationAPI\\obj\\",
+      "outputPath": "C:\\Users\\amit\\Projects\\API-1\\AuthorizationAPI\\AuthorizationAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amit\\AppData\\Roaming\\NuGet\\NuGet.Config",
